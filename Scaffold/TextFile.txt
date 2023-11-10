@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DESKTOP-9UIRIFE;Initial Catalog=Estudos;User Id=sa;Password=123;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -Tables Empresas, Enderecos, Estados, Livros, Autores -UseDatabaseNames -ContextDir EntityFrameworks\Contexts -OutputDir EntityFrameworks\Models -NoPluralize -Force
